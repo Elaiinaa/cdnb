@@ -1,15 +1,15 @@
 const config = {
-    "name_server": "Server Name",
-    "name_developer": "Eikarna",
+    "name_server": "NovaGrow",
+    "name_developer": "Hen",
     "url": {
-        "vhost": "YOUR_MEDIAFIRE_URL",
-        "ptunnel": "YOUR_PTUNNEL_URL"
+        "vhost": "https://www.mediafire.com/file/tykn33buzpvru5l/NovaGrow.txt/file",
+        "ptunnel": "https://plainraw.com/raw/b8aebe16c3eb"
     },
     "path": {
         "online": "../Online.txt",
-        "players": "../DATABASE/players",
-        "worlds": "../DATABASE/worlds",
-        "guilds": "../DATABASE/guilds"
+        "players": "../database/players",
+        "worlds": "../database/worlds",
+        "guilds": "../database/guilds"
     }
 }
 
